@@ -1,5 +1,3 @@
----
-
 ## ✅ **C Language: Basics, Functions, Operations**
 
 ### 1. **Swapping Two Numbers**
